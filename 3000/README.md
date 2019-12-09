@@ -1,8 +1,8 @@
 ![SoftIron](https://cdn-media.softiron.com/images/softiron-logo.svg)
 
-#OverDrive 3000
+# OverDrive 3000
 
-##FAQs
+## FAQs
 
 **Where can I find networking tools like ifconfig and netstat?**
 
