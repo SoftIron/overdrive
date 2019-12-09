@@ -12,7 +12,7 @@ lsusb -d 2e02: | grep bcdDevice
 ```
 
 **How do I flash updated firmware?**
-Download a firmware image at https://support.softiron.com. Untar the package and follow the instructions in the included README.txt. More information can be found in the OverDrive 1000 manual available at support.softiron.com.
+Download a firmware image at https://github.com/SoftIron/overdrive/blob/master/1000/overdrive_1000_firmware-1.02-2017-01-19.tar.gz. Untar the package and follow the instructions in the included README.txt. More information can be found in the OverDrive 1000 manual available at https://github.com/SoftIron/overdrive/blob/master/1000/OD1000_QSGv1.pdf
 
 **Do I need a programmer or any special hardware to flash updated firmware?**
 No. The OverDrive 1000's firmware can be flashed over the USB port.
@@ -40,4 +40,4 @@ The baud rate is 115200, but it it is set automatically. There is no need to spe
 If you're running from a Linux computer, make sure you have permission to access /dev/ttyACM0. You can run screen using sudo to run it as root or you can install a udev rules file to /etc/udev/rules.d/ which changes the permissions of the OverDrive 1000 serial device.
 
 **How can I connect to my OverDrive 1000 from Windows?**
-First download and install the OverDrive 1000 driver here. This driver will create a virtual COM port which you can open with PuTTY. Please refer to the OverDrive 1000 manual which is available at support.softiron.com for detailed instructions regarding the use of PuTTY.
+First download and install the OverDrive 1000 driver at https://github.com/SoftIron/overdrive/blob/master/1000/od1000_installer.zip. This driver will create a virtual COM port which you can open with PuTTY. Please refer to the OverDrive 1000 manual which is available at https://github.com/SoftIron/overdrive/blob/master/1000/OD1000_QSGv1.pdf for detailed instructions regarding the use of PuTTY.

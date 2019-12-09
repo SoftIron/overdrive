@@ -111,28 +111,28 @@ Bring up a screen or other terminal.
 Plug in the unit.
 When the BIOS screen prompt to enter the setup appears, press delete or escape.
 
-[Boot_0.png]
+(https://github.com/SoftIron/overdrive/blob/master/3000/Boot_0.png)
 
 Once in the Setup Utility, the following screen will appear:
 
-[Boot_1.png]
+(https://github.com/SoftIron/overdrive/blob/master/3000/Boot_1.png)
 
 Use the left arrow key to navigate to the Server Management tab.
 
-[Boot_3.png]
+(https://github.com/SoftIron/overdrive/blob/master/3000/Boot_3.png)
 
 Arrow down to the BMC network configuration menu item.
 
-[Boot_4.png]
+(https://github.com/SoftIron/overdrive/blob/master/3000/Boot_4.png)
 
 Press enter to access the BMC network configuration sub menu.
 
-[Boot_5.png]
+(https://github.com/SoftIron/overdrive/blob/master/3000/Boot_5.png)
 
 Change the Configuration Address source to static.
 
-[Boot_6.png]
+(https://github.com/SoftIron/overdrive/blob/master/3000/Boot_6.png)
 
 Enter the static management port IP address, subnet mask and the router information.
 
-[Boot_7.png]
+(https://github.com/SoftIron/overdrive/blob/master/3000/Boot_7.png)
