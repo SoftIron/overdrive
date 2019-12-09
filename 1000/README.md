@@ -1,8 +1,8 @@
 ![SoftIron](https://cdn-media.softiron.com/images/softiron-logo.svg)
 
-#OverDrive 1000
+# OverDrive 1000
 
-##FAQs
+## FAQs
 
 **How can I tell which firmware version I am running?**
 The version number is stored in the USB device version field. With your OverDrive 1000 connected to a Linux host, run: 
